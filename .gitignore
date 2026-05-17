@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Unignore needed files
+!*.h
+!*.cpp
+!*.md
+!*.gitignore
